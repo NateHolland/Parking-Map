@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/parking_sign_shadow" />
+            <corners android:radius="@dimen/parking_radius"></corners>
+        </shape>
+    </item>
+    <item android:top="@dimen/parking_shadow" android:bottom="@dimen/parking_shadow" android:left="@dimen/parking_shadow" android:right="@dimen/parking_shadow">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/parking_sign_white" />
+            <corners android:radius="@dimen/parking_radius"></corners>
+        </shape>
+    </item>
+    <item android:top="@dimen/parking_outline" android:bottom="@dimen/parking_outline" android:left="@dimen/parking_outline" android:right="@dimen/parking_outline">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/parking_sign_blue" />
+            <corners android:radius="@dimen/parking_radius"></corners>
+        </shape>
+    </item>
+</layer-list>

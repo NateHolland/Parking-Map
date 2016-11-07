@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="zone_pay_allowed">#de1b9600</color>
+    <color name="zone_pay_not_allowed">#d0ca0000</color>
+    <color name="zone_pay_allowed_stroke">#812cff00</color>
+    <color name="zone_pay_not_allowed_stroke">#8aff0000</color>
+    <color name="zone_highlighted">#ed00ffd9</color>
+    <color name="marker_text">#350007</color>
+    <color name="marker_colour_a">#fd6262</color>
+    <color name="marker_colour_b">#9b1c1c</color>
+    <color name="shadow_colour">#d4aa4040</color>
+    <color name="parking_sign_white">#ffffff</color>
+    <color name="parking_sign_blue">#0062ff</color>
+    <color name="parking_sign_shadow">#9c202020</color>
+</resources>

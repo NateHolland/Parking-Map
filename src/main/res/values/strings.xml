@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="pay">Start Parking</string>
+    <string name="maxstay">Max </string>
+    <string name="now_parking">Now Parking at %s</string>
+</resources>

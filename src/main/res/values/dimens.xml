@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="parking_outline">3dp</dimen>
+    <dimen name="parking_radius">2dp</dimen>
+    <dimen name="parking_shadow">1dp</dimen>
+</resources>
